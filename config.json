@@ -1,0 +1,16 @@
+{
+  "ebay_searches": [
+    {
+      "name": "My eBay search",
+      "url": "PASTE_YOUR_EBAY.CA_SEARCH_URL_HERE"
+    }
+  ],
+
+  "product_watches": [
+    {
+      "name": "Gladiator NXT EVO SCE Right",
+      "url": "https://vippilot.com/products/gladiator-nxt-evo-space-combat-edition-right-hand/",
+      "alert_back_in_stock": true
+    }
+  ]
+}
