@@ -1,0 +1,14 @@
+{
+  "products": {
+    "Gladiator NXT EVO SCE Right": {
+      "currency": "CAD",
+      "image": "https://vippilot.com/wp-content/uploads/2024/04/GNESCG-R_02.jpg",
+      "in_stock": true,
+      "max": 242.95,
+      "min": 206.95,
+      "name": "Gladiator NXT EVO \u2018Space Combat Edition\u2019 \u2013 Right Hand",
+      "on_sale": false,
+      "regular": 206.95
+    }
+  }
+}
